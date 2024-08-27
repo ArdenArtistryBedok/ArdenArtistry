@@ -67,7 +67,9 @@ const BeautyServicesTable = () => {
       name: "CRAFTJET DOUBLE CHIN/FAT MELT REDUCTION",
       description: "Non-invasive fat reduction treatment",
       details: [
-        "Craft-Jet Facial Filler/Face & Body Fat melt/",
+        "Craft-Jet Facial Filler",
+        "Face & Body",
+        "Fat melt",
         "Expression Wrinkles Muscle Relaxant",
         "Using air pressure technology device to penetrate serum from Korea into the deeper depth of the skin.",
         "Helps achieve reduction of unpleasant fat under the chin or body",
