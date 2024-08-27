@@ -27,6 +27,7 @@
     flex-direction: column;
     color: #fff;
     overflow: hidden;
+    gap: 10%!important;
   }
 
   .sub-content {
