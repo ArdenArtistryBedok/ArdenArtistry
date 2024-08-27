@@ -77,7 +77,7 @@ const BeautyServicesTable = () => {
       category: "other",
     },
     {
-      name: "PREMIUM AQUAOXY-LIFT FACIAL",
+      name: "Needleless skin booster/PDRN",
       description: "Advanced facial treatment with Korea technology",
       details: [
         "Do your facial maintenance here with our imported Korea technology machine.",
