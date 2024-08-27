@@ -7,7 +7,7 @@ function Maps() {
       <div className="maps">
         <h1>Locate Us!</h1>
         <b>
-          <p>1 Roxy Square, 50 E Coast Road #02-80 S428769</p>
+          <p>Blk 530 Bedok North Street 3, Singapore 460530</p>
         </b>
         <div className="GridMaps">
           <div className="grid1maps">
