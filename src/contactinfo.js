@@ -23,23 +23,22 @@ function ContactInfo() {
             137, 225w, 137, 225G
           </p>
         </div>
-
-        <a href="https://www.google.com/maps/place/Arden+Artistry/@1.3337144,103.9269518,15z/data=!4m2!3m1!1s0x0:0xfd084e3d00c745cd?sa=X&ved=1t:2428&ictx=111">
-          <div className="sub-content subcontent">
-            <img src={reviewUs} className="review-img" alt="reviewUs" />
-          </div>
-        </a>
       </div>
       <h3 className="h3-style">Service Hours</h3>
       <p className="opening-time">
-        <br></br>
-        Monday to Friday : 11:00am to 9.00pm
-        <br></br>
-        Saturday: 11:00am to 3:00pm
-        <br></br>
-        Sunday : 11:00am to 9.00pm
-        <br></br>
-        Public Holidays : Closed <br />
+      Sunday: 11:30am - 8:30pm
+      <br></br>
+      Monday: 11:30am - 8:00pm
+      <br></br>
+      Tuesday: 11:30am - 8:00pm
+      <br></br>
+      Wednesday: 11:30am - 8:00pm
+      <br></br>
+      Thursday 11:00am - 8:00pm
+      <br></br>
+      Friday 11:30am - 8:00pm
+      <br></br>
+      Saturday: 11:30am - 2:00pm
       </p>
     </div>
   );
