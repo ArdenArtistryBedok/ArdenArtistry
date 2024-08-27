@@ -27,13 +27,11 @@ function ContactInfo() {
       </div>
       <h3 className="h3-style">Service Hours</h3>
       <p className="opening-time">
-        <p className="opening-time">
           {" "}
           Sunday: 11:30am - 8:30pm <br></br> Monday: 11:30am - 8:00pm <br></br>{" "}
           Tuesday: 11:30am - 8:00pm <br></br> Wednesday: 11:30am - 8:00pm{" "}
           <br></br> Thursday 11:00am - 8:00pm <br></br> Friday 11:30am - 8:00pm{" "}
           <br></br> Saturday: 11:30am - 2:00pm{" "}
-        </p>
       </p>
     </div>
   );
