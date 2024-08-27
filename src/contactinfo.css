@@ -12,7 +12,7 @@
 .body-style {
   width: 90%;
   display: grid;
-  grid-template-columns:  1fr;
+  grid-template-columns:  1fr 1fr;
   color: #fff;
   overflow: hidden;
   grid-gap: 4%;
