@@ -16,36 +16,7 @@
   color: #fff;
   overflow: hidden;
   grid-gap: 4%;
-}
-
-@media (max-width: 430px) {
-  .body-style {
-    width: 100%;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-direction: column;
-    color: #fff;
-    overflow: hidden;
-    gap: 10%!important;
-  }
-
-  .sub-content {
-    margin-top: 3%;
-    background: #21482c;
-    padding: 10%;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    border-radius: 2em;
-    font-size: 120%;
-    width: 100%;
-  }
-
-  .review-img {
-    width: 100% !important;
-  }
+  object-fit: scale-down;
 }
 .sub-content {
   margin-top: 3%;
@@ -57,6 +28,7 @@
   align-items: center;
   border-radius: 2em;
   font-size: 120%;
+  object-fit: scale-down;
 }
 .review-img {
   width: 100%;
