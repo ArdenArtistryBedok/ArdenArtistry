@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.04b9cf41.css",
-    "main.js": "/static/js/main.5abc2ad1.js",
+    "main.css": "/static/css/main.37489f82.css",
+    "main.js": "/static/js/main.fead97ce.js",
     "static/css/992.65ff64bb.chunk.css": "/static/css/992.65ff64bb.chunk.css",
     "static/js/992.2cf0b709.chunk.js": "/static/js/992.2cf0b709.chunk.js",
     "static/css/19.823e9d51.chunk.css": "/static/css/19.823e9d51.chunk.css",
@@ -26,15 +26,15 @@
     "static/media/HorizontalVideo2.mp4": "/static/media/HorizontalVideo2.fa2ab0ab1d180dfcee3d.mp4",
     "static/media/HorizontalVideo.mp4": "/static/media/HorizontalVideo.56f13ca05005afcff8b7.mp4",
     "static/media/Grid2.mp4": "/static/media/Grid2.86f5bb1a2895048e7578.mp4",
+    "static/media/reviewUs.png": "/static/media/reviewUs.52bf59a4228c0e84732f.png",
     "static/media/quote.png": "/static/media/quote.f36a008d57d1dd3f716a.png",
     "static/media/topBanner.png": "/static/media/topBanner.c683016cb02142a1c1f8.png",
     "static/media/Grid1.mp4": "/static/media/Grid1.b5a38b74f07a53794b8a.mp4",
     "static/media/menu.jpeg": "/static/media/menu.855ba27eb6872dca278f.jpeg",
     "static/media/netmaidLogo.png": "/static/media/netmaidLogo.dce21b75711a9304c458.png",
-    "static/media/reviewUs.png": "/static/media/reviewUs.6b9148a2a78a5821d082.png",
     "index.html": "/index.html",
-    "main.04b9cf41.css.map": "/static/css/main.04b9cf41.css.map",
-    "main.5abc2ad1.js.map": "/static/js/main.5abc2ad1.js.map",
+    "main.37489f82.css.map": "/static/css/main.37489f82.css.map",
+    "main.fead97ce.js.map": "/static/js/main.fead97ce.js.map",
     "992.65ff64bb.chunk.css.map": "/static/css/992.65ff64bb.chunk.css.map",
     "992.2cf0b709.chunk.js.map": "/static/js/992.2cf0b709.chunk.js.map",
     "19.823e9d51.chunk.css.map": "/static/css/19.823e9d51.chunk.css.map",
@@ -58,7 +58,7 @@
     "906.54f95df4.chunk.js.map": "/static/js/906.54f95df4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.04b9cf41.css",
-    "static/js/main.5abc2ad1.js"
+    "static/css/main.37489f82.css",
+    "static/js/main.fead97ce.js"
   ]
 }
