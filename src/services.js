@@ -1,4 +1,5 @@
 import React from "react";
+import { ElfsightWidget } from "react-elfsight-widget";
 
 const BeautyServicesTable = () => {
   const services = [
@@ -66,11 +67,16 @@ const BeautyServicesTable = () => {
       name: "CRAFTJET DOUBLE CHIN/FAT MELT REDUCTION",
       description: "Non-invasive fat reduction treatment",
       details: [
-        "Using air pressure technology device to penetrate fat melt serum from Korea into the deeper depth of the skin.",
-        "Helps achieve reduction of unpleasant fat under the chin.",
+        "Craft-Jet Facial Filler/Face & Body Fat melt/",
+        "Expression Wrinkles Muscle Relaxant",
+        "Using air pressure technology device to penetrate serum from Korea into the deeper depth of the skin.",
+        "Helps achieve reduction of unpleasant fat under the chin or body",
+        "Helps contour and sculpt facial feature to stand out.",
+        "Helps reduce excess facial lines caused by frequent expressions/movement",
         "Product used is HSA notified.",
-        "Usually result is visible after one session, after 7-10 days of treatment.",
-        "No pain, Non-invasive, quick and mild downtime needed only for an effective result.",
+        "Usually result is visible after one session, or after 7-10 days of procedure.",
+        "Can last 6-18 months depending on respective craft-jet treatment.",
+        "Minimal discomfort, Non-invasive, quick and mild downtime needed only for an effective result.",
         "Most suitable for those afraid of needles and energy based equipment.",
       ],
       isPopular: false,
@@ -80,10 +86,15 @@ const BeautyServicesTable = () => {
       name: "Needleless skin booster/PDRN",
       description: "Advanced facial treatment with Korea technology",
       details: [
-        "Do your facial maintenance here with our imported Korea technology machine.",
-        "With different handpieces, this machine helps with thorough cleanse, oxygenate, hydrate, firm and lift your skin.",
-        "Uses premium grade hydrating products like hyaluronic acid and collagen/peptides serum.",
-        "Leave our place feeling refreshed, relaxed, beautiful and confident as you should be!",
+        "Firm, lift and glow up your skin with our needle-less device, technic and product from Korea.",
+        "No more tedious pain tolerance during procedure with needle bumps and marks",
+        "which require days to weeks of downtime.",
+        "Instant glow, suppleness and brightening right after treatment!",
+        "Totally painless or discomfort in the process,",
+        "ending the treatment with a LED light mask therapy to soothe and calm down any sensitive skin.",
+        "Save money, time and effort doing weekly or monthly facial, even the daily skincare routines,",
+        "with our affordable needle-less infusion of all quality ingredients into your skin.",
+        "Maintenance only required once every two months.",
       ],
       isPopular: false,
       category: "other",
@@ -91,6 +102,7 @@ const BeautyServicesTable = () => {
   ];
 
   return (
+    <div>
     <div className="beauty-services-table">
       <h1>OUR SERVICES</h1>
       <p className="tagline">
@@ -194,6 +206,9 @@ const BeautyServicesTable = () => {
           background-color: black;
         }
       `}</style>
+    </div>
+    <ElfsightWidget widgetId="c203694e-f020-46c1-9b19-c0717745b554" />
+
     </div>
   );
 };
