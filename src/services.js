@@ -63,7 +63,7 @@ const BeautyServicesTable = () => {
       category: "other",
     },
     {
-      name: "AIRJET DOUBLE CHIN/FAT MELT REDUCTION",
+      name: "CRAFTJET DOUBLE CHIN/FAT MELT REDUCTION",
       description: "Non-invasive fat reduction treatment",
       details: [
         "Using air pressure technology device to penetrate fat melt serum from Korea into the deeper depth of the skin.",
