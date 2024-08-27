@@ -1,0 +1,38 @@
+.video-container,
+.video-style {
+  overflow: hidden;
+  width: 100%;
+}
+.container-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+.spline-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+
+@media (max-width: 430px) {
+    .container-wrapper {
+        margin-top: 3%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 100%;
+      }
+
+    .spline-container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 100%;
+        height: 100vh !important;
+      }
+}
+.video-container {
+  display: none;
+}

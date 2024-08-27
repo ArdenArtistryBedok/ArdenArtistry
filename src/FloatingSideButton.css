@@ -1,0 +1,9 @@
+.netmaid-logo {
+  position: fixed;
+  right: 90.5%;
+  bottom: 55%;
+  width: 15%;
+  transform: rotate(-270deg);
+  position: fixed;
+  z-index: 2;
+}

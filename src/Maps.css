@@ -1,0 +1,1 @@
+.GridMaps iframe,.maps{width:100%;overflow:hidden}.maps{display:flex;justify-content:center;align-items:center;flex-direction:column;margin-top:10%}.maps p{font-size:1.5em;padding:6%}.GridMaps{display:grid;width:100%}.GridMaps iframe{height:600px;border:none!important}
