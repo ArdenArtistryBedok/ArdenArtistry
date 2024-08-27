@@ -21,11 +21,9 @@ function ContactInfo() {
           </p>
         </div>
 
-        <a href="https://www.google.com/maps/place/Kuts+%26+Kurls/@1.3043651,103.9040224,15z/data=!4m2!3m1!1s0x0:0xb0d1729e18dea4c?sa=X&ved=1t:2428&ictx=111">
           <div className="sub-content subcontent">
             <img src={reviewUs} className="review-img" alt="reviewUs" />
           </div>
-        </a>
       </div>
       <h3 className="h3-style">Service Hours</h3>
       <p className="opening-time">
