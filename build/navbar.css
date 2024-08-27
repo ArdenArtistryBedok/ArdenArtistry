@@ -1,0 +1,1 @@
+.hamburger:hover,.navlinks:hover,.topbanner:hover{transform:scale(1.1)}.hamburger:hover{transition:.3s ease-in-out}.topbanner{transition:.8s ease-in-out}.navlinks{transition:.3s ease-in-out}@media (max-width:430px){.navlinks{font-size:80%!important;padding:3%}.topbanner{width:20%!important;margin-top:5%!important;margin-bottom:5%!important}}
