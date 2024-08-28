@@ -8,10 +8,8 @@ function ContactInfo() {
       <h1>Contact Information</h1>
       <div className="body-style contactBody">
         <div className="sub-content subcontent">
-          <p className="p-style">Phone: 96363537</p>
-
           <p className="p-style">
-            Phone: 9152 5202 <br></br> <br></br> ardenartistry@gmail.com{" "}
+            Phone: 91525202 <br></br> <br></br> ardenartistry@gmail.com{" "}
             <br></br> <br></br>{" "}
             <b>
               {" "}
