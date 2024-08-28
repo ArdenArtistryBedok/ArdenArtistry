@@ -87,8 +87,8 @@ const BeautyServicesTable = () => {
       description: "Advanced facial treatment with Korea technology",
       details: [
         "Improve Firmness, lift and glow up your skin with our needle-less solution from Korea.",
-        "Enjoy little to no pain during procedure with needle bumps and marks",
-        "Little to no downtime",
+        "Enjoy no pain during procedure without needle bumps and marks",
+        "Zero downtime",
         "Instant glow, suppleness and brightening right after treatment!",
         "LED light mask therapy to soothe and calm down any sensitive skin.",
         "Save money, time and effort doing weekly or monthly facial, even the daily skincare routines,",
