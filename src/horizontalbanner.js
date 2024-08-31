@@ -27,7 +27,7 @@ function HorizontalBanner() {
               by using hypoallergenic, low-fume glue and cruelty-free products
               free from harsh chemicals.<br></br> This makes our services ideal
               for those with sensitive skin and those who prefer vegan-friendly
-              options, and uur lashes are crafted from premium nano-fiber sourced
+              options, and your lashes are crafted from premium nano-fiber sourced
               from Korea, designed to provide ultimate comfort.<br></br> Light
               as a feather, they feel just like your own natural lashes,
               ensuring a seamless and comfortable experience.
