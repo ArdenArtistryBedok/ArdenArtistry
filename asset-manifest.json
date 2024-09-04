@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.541430cc.css",
-    "main.js": "/static/js/main.194cca94.js",
+    "main.js": "/static/js/main.0815bf42.js",
     "static/css/992.65ff64bb.chunk.css": "/static/css/992.65ff64bb.chunk.css",
     "static/js/992.2cf0b709.chunk.js": "/static/js/992.2cf0b709.chunk.js",
     "static/css/19.823e9d51.chunk.css": "/static/css/19.823e9d51.chunk.css",
@@ -34,7 +34,7 @@
     "static/media/netmaidLogo.png": "/static/media/netmaidLogo.dce21b75711a9304c458.png",
     "index.html": "/index.html",
     "main.541430cc.css.map": "/static/css/main.541430cc.css.map",
-    "main.194cca94.js.map": "/static/js/main.194cca94.js.map",
+    "main.0815bf42.js.map": "/static/js/main.0815bf42.js.map",
     "992.65ff64bb.chunk.css.map": "/static/css/992.65ff64bb.chunk.css.map",
     "992.2cf0b709.chunk.js.map": "/static/js/992.2cf0b709.chunk.js.map",
     "19.823e9d51.chunk.css.map": "/static/css/19.823e9d51.chunk.css.map",
@@ -59,6 +59,6 @@
   },
   "entrypoints": [
     "static/css/main.541430cc.css",
-    "static/js/main.194cca94.js"
+    "static/js/main.0815bf42.js"
   ]
 }
