@@ -83,8 +83,8 @@ const BeautyServicesTable = () => {
       category: "other",
     },
     {
-      name: "Needleless skin booster/PDRN",
-      description: "Advanced facial treatment with Korea technology",
+      name: "NANO HAIRSTROKE EYEBROW EMBROIDERY",
+      description: "Premium Eye Brow Embroidery",
       details: [
         "Improve Firmness, lift and glow up your skin with our needle-less solution from Korea.",
         "Enjoy no pain during procedure without needle bumps and marks",
@@ -94,6 +94,17 @@ const BeautyServicesTable = () => {
         "Save money, time and effort doing weekly or monthly facial, even the daily skincare routines,",
         "with our affordable needle-less infusion of all quality ingredients into your skin.",
         "Maintenance bi-monthly required.",
+      ],
+      isPopular: false,
+      category: "other",
+    },
+    {
+      name: "Needleless skin booster/PDRN",
+      description: "Advanced facial treatment with Korea technology",
+      details: [
+        "This exquisite nano technique uses misty shading with gentle touch of hair strokes to enhance the natural look of eyebrows.",
+        "It reduces the hassle from drawing eyebrows which can be time consuming and inconvenient.",
+        "We use plant-based pigments so you can assure there will be no color changing even when it fades away overtime.",
       ],
       isPopular: false,
       category: "other",
